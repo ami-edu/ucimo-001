@@ -7,3 +7,7 @@ Instalirajte Visual Studio Code i Microsoft C++ ekstenziju po uputstvu.
 Nećemo Dev C++. Učite se da radite u VS Code. Iz VS Code može svašta da se radi. 
 
 ![image](https://code.visualstudio.com/assets/docs/languages/cpp/cpp-extension.png)
+
+## Zadatak
+
+Treba napraviti program koji za dva uneta cela broja racuna NZD i NZS. 
