@@ -1,4 +1,5 @@
 int nzd(int a, int b) {
-	
-	return 0;
+	if (a == 0) 
+        return b; 
+    return nzd(b % a, a); 
 }
