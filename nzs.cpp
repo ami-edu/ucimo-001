@@ -1,4 +1,9 @@
-int nzs(int a, int b) {
+int nzs(int a, int b, int c) {
+	c=1;
 	
-	return 0;
+	while ((c % a != 0) || (c % b != 0)){
+		c++;
+	}
+	
+	return c;
 }
