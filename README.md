@@ -1,5 +1,6 @@
 # ucimo-001
-Da naucimo da radimo u timu
+
+## Da naucimo da radimo u timu
 
 Prvo pogledajte ovo: https://code.visualstudio.com/docs/languages/cpp
 
