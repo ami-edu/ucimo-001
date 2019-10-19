@@ -13,7 +13,7 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 Imajte u vidu da kad se instalira ovaj kompajler, mora da se izbriše ono "Program FIles" iz putanje, tako da instalacija ide direktno u "C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0". 
 
-Da bi kompajler bio vidljiv iz VS Code, treba registrovati putanju gde se on nalazi da bude vidljiva svim programima. To se radi dodavanjem putanje u sistemsku path varijablu: "C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin". Kako to da uradite objasnio sam ovde. 
+Da bi kompajler bio vidljiv iz VS Code, treba registrovati putanju gde se on nalazi da bude vidljiva svim programima. To se radi dodavanjem putanje u sistemsku path varijablu: "C:\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin". Kako to da uradite objasnio sam [ovde](edit-path-variable.md). 
 
 ## Zadatak
 
